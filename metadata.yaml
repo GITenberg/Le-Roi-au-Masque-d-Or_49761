@@ -1,0 +1,27 @@
+_repo: Le-Roi-au-Masque-d-Or_49761
+creator:
+  author:
+    agent_name: Schwob, Marcel
+    aliases:
+    - Loyson-Bridet
+    - Schwob, Mayer André Marcel
+    - Schwob, Mayer Andre Marcel
+    birthdate: 1867
+    deathdate: 1905
+    gutenberg_agent_id: '7814'
+    url: http://www.gutenberg.org/2009/agents/7814
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Schwob
+description: ''
+gutenberg_bookshelf:
+- FR Nouvelles
+- FR Nouveautés
+gutenberg_issued: '2015-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49761'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Le Roi au Masque d'Or
+url: http://www.gutenberg.org/ebooks/49761
