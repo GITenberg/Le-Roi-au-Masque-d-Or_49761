@@ -1,4 +1,8 @@
 _repo: Le-Roi-au-Masque-d-Or_49761
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49761-h/images/cover.jpg
 creator:
   author:
     agent_name: Schwob, Marcel
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7814
     wikipedia: http://en.wikipedia.org/wiki/Marcel_Schwob
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49761#Le-Roi-au-Masque-d-Or
 gutenberg_bookshelf:
 - FR Nouvelles
 - FR Nouveautés
